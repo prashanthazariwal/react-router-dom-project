@@ -1,0 +1,1 @@
+export const ApiKey = import.meta.env.VITE_OMDB_API_KEY
